@@ -48,6 +48,8 @@ https://twitter.com/AshiqAmien
 
 http://www.rileyholterhus.com/
 
+https://defihacklabs.substack.com/
+
 
 ## audit
 
