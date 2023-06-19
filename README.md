@@ -36,7 +36,7 @@ https://blog.openzeppelin.com/final-results-blockchain-hacking-techniques-of-202
 
 ## awesome blogs
 
-https://medium.com/@nnez
+https://www.trust-security.xyz/
 
 https://medium.com/@nnez
 
