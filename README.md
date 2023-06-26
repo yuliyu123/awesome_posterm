@@ -50,6 +50,12 @@ http://www.rileyholterhus.com/
 
 https://defihacklabs.substack.com/
 
+https://ashiq.co.za/tabs/research/
+
+https://iosiro.com/blog
+
+https://cmichel.io/
+
 
 ## audit
 
