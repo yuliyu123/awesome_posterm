@@ -58,6 +58,8 @@ https://cmichel.io/
 
 https://www.coinspect.com/
 
+https://mixbytes.io/blog/overview-of-the-inflation-attack(ERC4626 inflation attack)
+
 
 ## vulnerable contract replay
 
