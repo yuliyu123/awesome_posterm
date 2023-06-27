@@ -56,6 +56,15 @@ https://iosiro.com/blog
 
 https://cmichel.io/
 
+https://www.coinspect.com/
+
+
+## vulnerable contract replay
+
+https://github.com/coinspect/learn-evm-attacks
+
+https://github.com/SunWeb3Sec/DeFiHackLabs
+
 
 ## audit
 
