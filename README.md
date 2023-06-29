@@ -90,6 +90,8 @@ https://dacian.me/defi-slippage-attacks
 
 https://github.com/pashov/audits
 
+https://github.com/0xNazgul/Blockchain-Security-Audit-List
+
 
 ## mev
 
