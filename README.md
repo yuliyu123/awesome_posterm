@@ -76,6 +76,9 @@ https://github.com/aviggiano/theauditorbook
 
 https://code4rena.com/contests
 
+https://github.com/orgs/code-423n4/repositories?q=&type=all&language=&sort=
+
+https://github.com/orgs/sherlock-audit/repositories?type=all
 
 ### lending && borrowing attacker vector
 
