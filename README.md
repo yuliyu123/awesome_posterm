@@ -95,7 +95,12 @@ https://github.com/pashov/audits
 
 https://github.com/0xNazgul/Blockchain-Security-Audit-List
 
-
 ## mev
 
 https://twitter.com/EigenPhi/status/1662488947346538497
+
+
+## EIP standard issues
+
+https://github.com/d-xo/weird-erc20#no-revert-on-failure
+
