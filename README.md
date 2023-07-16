@@ -60,6 +60,8 @@ https://www.coinspect.com/
 
 https://mixbytes.io/blog/overview-of-the-inflation-attack (ERC4626 inflation attack)
 
+https://zachobront.com/
+
 
 ## vulnerable contract replay
 
@@ -80,16 +82,18 @@ https://github.com/orgs/code-423n4/repositories?q=&type=all&language=&sort=
 
 https://github.com/orgs/sherlock-audit/repositories?type=all
 
+https://github.com/zobront/audits/blob/main/reports/sablier-1.pdf
+
 ### lending && borrowing attacker vector
 
 https://dacian.me/lending-borrowing-defi-attacks
 
 
-### defi slippage attacks
+### Defi slippage attacks
 
 https://dacian.me/defi-slippage-attacks
 
-### colo audit report
+### Solo audit report
 
 https://github.com/pashov/audits
 
@@ -103,4 +107,8 @@ https://twitter.com/EigenPhi/status/1662488947346538497
 ## EIP standard issues
 
 https://github.com/d-xo/weird-erc20#no-revert-on-failure
+
+## fuzz test
+
+https://twitter.com/zachobront/status/1679542288458866692
 
