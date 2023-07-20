@@ -108,6 +108,11 @@ https://twitter.com/EigenPhi/status/1662488947346538497
 
 https://github.com/d-xo/weird-erc20#no-revert-on-failure
 
+
+## multichain diff
+
+https://github.com/0xJuancito/multichain-auditor#modified-opcodes
+
 ## fuzz test
 
 https://twitter.com/zachobront/status/1679542288458866692
