@@ -117,3 +117,8 @@ https://github.com/0xJuancito/multichain-auditor#modified-opcodes
 
 https://twitter.com/zachobront/status/1679542288458866692
 
+## automation code analyser tool
+
+https://github.com/Picodes/4naly3er
+
+
