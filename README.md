@@ -62,6 +62,8 @@ https://mixbytes.io/blog/overview-of-the-inflation-attack (ERC4626 inflation att
 
 https://zachobront.com/
 
+https://www.rareskills.io/post/solidity-gasleft
+
 
 ## vulnerable contract replay
 
