@@ -64,6 +64,14 @@ https://zachobront.com/
 
 https://www.rareskills.io/post/solidity-gasleft
 
+https://medium.com/@0kage
+
+https://stermi.xyz/
+
+https://www.halborn.com/reports/top-hacks/halborn_top_50_defi_hacks_2016_2022.pdf
+
+https://mirror.xyz/0x333247F2e126954ed6428e9135Ae9dE06A76BA32
+
 
 ## vulnerable contract replay
 
@@ -108,7 +116,13 @@ https://twitter.com/EigenPhi/status/1662488947346538497
 
 ## EIP standard issues
 
+### ERC20
+
 https://github.com/d-xo/weird-erc20#no-revert-on-failure
+
+### ERC4337
+
+https://medium.com/oak-security/a-deep-dive-into-the-main-components-of-erc-4337-account-abstraction-using-alt-mempool-part-1-3a1ed1bd3a9b
 
 
 ## multichain diff
@@ -119,8 +133,13 @@ https://github.com/0xJuancito/multichain-auditor#modified-opcodes
 
 https://twitter.com/zachobront/status/1679542288458866692
 
-## automation code analyser tool
+## Automation code static analysis tool
 
 https://github.com/Picodes/4naly3er
 
+## zkp
+
+https://twitter.com/SpearbitDAO/status/1699800472448835776
+
+https://www.youtube.com/playlist?list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs
 
