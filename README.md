@@ -23,6 +23,8 @@ https://100proof.org/kyberswap-post-mortem.html
 
 https://blog.notional.finance/ntoken-redemption-bug-post-mortem/
 
+## yearn pricePerShare  manipulation
+https://github.com/yearn/yearn-security/blob/master/disclosures/2021-10-27.md
 
 ### Immunefi-bug-bounty-writeups-list
 
