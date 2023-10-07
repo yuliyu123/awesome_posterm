@@ -145,3 +145,8 @@ https://twitter.com/SpearbitDAO/status/1699800472448835776
 
 https://www.youtube.com/playlist?list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs
 
+## Blockchain & DLT
+
+https://hackenproof.com/blog/for-hackers/near-rewards-1-8-million-to-ethical-hackers-at-hackenproof
+
+
