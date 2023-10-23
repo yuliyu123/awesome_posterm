@@ -74,6 +74,7 @@ https://www.halborn.com/reports/top-hacks/halborn_top_50_defi_hacks_2016_2022.pd
 
 https://mirror.xyz/0x333247F2e126954ed6428e9135Ae9dE06A76BA32
 
+https://github.com/OpenCoreCH/smart-contract-auditing-heuristics?utm_source=substack&utm_medium=email
 
 ## vulnerable contract replay
 
