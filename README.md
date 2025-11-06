@@ -150,4 +150,21 @@ https://www.youtube.com/playlist?list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs
 
 https://hackenproof.com/blog/for-hackers/near-rewards-1-8-million-to-ethical-hackers-at-hackenproof
 
+https://marcohextor.com/axelar-network-cross-chain-halt-vulnerability/
+
+https://github.com/sayan011/Immunefi-bug-bounty-writeups-list
+
+https://osec.io/blog/2025-06-10-cosmos-security/
+
+## Defi round issue
+
+https://medium.com/immunefi/balancer-rounding-error-bugfix-review-cbf69482ee3d
+
+https://mp.weixin.qq.com/s/sQ7lK1iKjgAgum1OnoutnA
+
+https://medium.com/immunefi/balancer-rounding-error-bugfix-review-cbf69482ee3d
+
+
+
+
 
